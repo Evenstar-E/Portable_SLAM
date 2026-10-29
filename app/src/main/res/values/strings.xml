@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portable SLAM 设备检测</string>
+    <string name="start_detection">开始检测</string>
+    <string name="retry_detection">重新检测</string>
+    <string name="export_report">导出诊断报告</string>
+    <string name="initial_status">请准备相机权限和 Google Play Services for AR（ARCore）</string>
+    <string name="initial_report">检测仅在本机读取设备、ARCore、相机跟踪和深度状态，不会保存或上传图像。\n\n点击“开始检测”，然后缓慢移动手机，观察有纹理的室内区域。</string>
+    <string name="waiting_preview">等待 ARCore 相机画面</string>
+    <string name="export_success">诊断报告已导出：%1$s</string>
+    <string name="export_failure">导出失败：%1$s</string>
+</resources>
